@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <!-- Glass gradient -->
+    <linearGradient id="glassGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e6faff" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <!-- Shine highlight -->
+    <radialGradient id="shine" cx="30%" cy="25%" r="30%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Water drop body -->
+  <path
+    d="M32 2C22 16 14 26 14 38c0 10 8 18 18 18s18-8 18-18C50 26 42 16 32 2z"
+    fill="url(#glassGradient)"
+  />
+
+  <!-- Glass reflection -->
+  <ellipse
+    cx="26"
+    cy="22"
+    rx="8"
+    ry="12"
+    fill="url(#shine)"
+  />
+</svg>

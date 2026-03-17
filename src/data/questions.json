@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "category": "Water",
+    "difficulty": 1,
+    "question": "Which practice saves water?",
+    "options": [
+      "Leak taps",
+      "Rainwater harvesting",
+      "Overflow tank",
+      "Flood irrigation"
+    ],
+    "answer": "Rainwater harvesting"
+  }
+]

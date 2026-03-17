@@ -1,0 +1,229 @@
+{
+  "Basics of Groundwater": {
+    "level1": [
+      {
+        "question": "What is groundwater?",
+        "options": [
+          "Water in oceans",
+          "Water stored underground",
+          "Rainwater in clouds",
+          "River water"
+        ],
+        "answer": "Water stored underground",
+        "xp": 10
+      },
+      {
+        "question": "Groundwater is mainly stored in:",
+        "options": ["Rocks and soil", "Air", "Glaciers", "Plants"],
+        "answer": "Rocks and soil",
+        "xp": 10
+      }
+    ],
+    "level2": [
+      {
+        "question": "Which layer stores groundwater?",
+        "options": ["Atmosphere", "Aquifer", "Lithosphere", "Hydrosphere"],
+        "answer": "Aquifer",
+        "xp": 20
+      }
+    ],
+    "level3": [
+      {
+        "question": "Which type of aquifer is confined by impermeable layers?",
+        "options": [
+          "Unconfined aquifer",
+          "Confined aquifer",
+          "Surface aquifer",
+          "Open aquifer"
+        ],
+        "answer": "Confined aquifer",
+        "xp": 30
+      }
+    ]
+  },
+
+  "Groundwater Recharge": {
+    "level1": [
+      {
+        "question": "Which is the main natural source of groundwater recharge?",
+        "options": ["Rainfall", "Factories", "Rivers only", "Ocean waves"],
+        "answer": "Rainfall",
+        "xp": 10
+      }
+    ],
+    "level2": [
+      {
+        "question": "Rainwater harvesting helps in:",
+        "options": [
+          "Flooding",
+          "Groundwater recharge",
+          "Water pollution",
+          "Soil erosion"
+        ],
+        "answer": "Groundwater recharge",
+        "xp": 20
+      }
+    ],
+    "level3": [
+      {
+        "question": "Which structure is best for artificial groundwater recharge?",
+        "options": ["Check dams", "Highways", "Factories", "Skyscrapers"],
+        "answer": "Check dams",
+        "xp": 30
+      }
+    ]
+  },
+
+  "Groundwater Depletion": {
+    "level1": [
+      {
+        "question": "Overuse of groundwater causes:",
+        "options": [
+          "Rising water table",
+          "Lowering water table",
+          "More rainfall",
+          "Cleaner water"
+        ],
+        "answer": "Lowering water table",
+        "xp": 10
+      }
+    ],
+    "level2": [
+      {
+        "question": "Which sector uses the most groundwater?",
+        "options": ["Agriculture", "Industries", "Homes", "Transport"],
+        "answer": "Agriculture",
+        "xp": 20
+      }
+    ],
+    "level3": [
+      {
+        "question": "Groundwater depletion can lead to:",
+        "options": [
+          "Land subsidence",
+          "Forest growth",
+          "Increased rainfall",
+          "River formation"
+        ],
+        "answer": "Land subsidence",
+        "xp": 30
+      }
+    ]
+  },
+
+  "Groundwater Conservation": {
+    "level1": [
+      {
+        "question": "Which method saves groundwater?",
+        "options": [
+          "Drip irrigation",
+          "Flood irrigation",
+          "Leakage",
+          "Over pumping"
+        ],
+        "answer": "Drip irrigation",
+        "xp": 10
+      }
+    ],
+    "level2": [
+      {
+        "question": "Fixing leaking pipes helps in:",
+        "options": [
+          "Water wastage",
+          "Water conservation",
+          "Pollution",
+          "Floods"
+        ],
+        "answer": "Water conservation",
+        "xp": 20
+      }
+    ],
+    "level3": [
+      {
+        "question": "Which practice promotes long-term groundwater conservation?",
+        "options": [
+          "Rainwater harvesting",
+          "Over-extraction",
+          "Urban flooding",
+          "Deforestation"
+        ],
+        "answer": "Rainwater harvesting",
+        "xp": 30
+      }
+    ]
+  },
+
+  "Groundwater Pollution": {
+    "level1": [
+      {
+        "question": "Which contaminates groundwater?",
+        "options": ["Chemical fertilizers", "Trees", "Rainwater", "Mountains"],
+        "answer": "Chemical fertilizers",
+        "xp": 10
+      }
+    ],
+    "level2": [
+      {
+        "question": "Industrial waste causes:",
+        "options": [
+          "Clean water",
+          "Groundwater pollution",
+          "Recharge",
+          "Evaporation"
+        ],
+        "answer": "Groundwater pollution",
+        "xp": 20
+      }
+    ],
+    "level3": [
+      {
+        "question": "Which pollutant causes nitrate contamination?",
+        "options": ["Fertilizers", "Sand", "Rocks", "Rain"],
+        "answer": "Fertilizers",
+        "xp": 30
+      }
+    ]
+  },
+
+  "Sustainable Management": {
+    "level1": [
+      {
+        "question": "Sustainable groundwater use means:",
+        "options": [
+          "Unlimited usage",
+          "Balanced use and recharge",
+          "Ignoring recharge",
+          "Only extraction"
+        ],
+        "answer": "Balanced use and recharge",
+        "xp": 10
+      }
+    ],
+    "level2": [
+      {
+        "question": "Community participation helps in:",
+        "options": [
+          "Water wastage",
+          "Sustainable management",
+          "Pollution",
+          "Depletion"
+        ],
+        "answer": "Sustainable management",
+        "xp": 20
+      }
+    ],
+    "level3": [
+      {
+        "question": "Best policy for groundwater sustainability is:",
+        "options": [
+          "Regulated extraction",
+          "No laws",
+          "Unlimited borewells",
+          "Ignoring data"
+        ],
+        "answer": "Regulated extraction",
+        "xp": 30
+      }
+    ]
+  }
+}
